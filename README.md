@@ -1,3 +1,3 @@
 # C-programing
 <br>
-author - Tenbyzero
+author - Tenbyzero1
